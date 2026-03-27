@@ -1,0 +1,8 @@
+www
+admin
+dev
+test
+api
+mail
+portal
+vpn
